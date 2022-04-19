@@ -1,0 +1,28 @@
+{
+  "name": "v13-template",
+  "version": "1.0.0",
+  "description": "discord v13 template",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthrxc/v13-template.git"
+  },
+  "keywords": [],
+  "author": "anthrxc",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anthrxc/v13-template/issues"
+  },
+  "homepage": "https://github.com/anthrxc/v13-template#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ms": "^2.1.3"
+  }
+}
